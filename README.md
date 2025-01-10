@@ -88,7 +88,5 @@ Ficou com alguma dúvida? Tem uma melhoria para sugerir? **Contribua para o proj
 ---
 
 **Vamos juntos!** 🌍 Acompanhe este projeto, aprenda HTML e **conquiste a web!** 🌟
-```
-
 
 
